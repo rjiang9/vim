@@ -201,10 +201,10 @@ set ffs=unix,dos,mac
 "
 " but NO, Ray need backup, so setting up a backup directory
 set backup
-if !isdirectory($HOME."/.vim_runtime/backupdir")
-    silent! execute "!mkdir ~/.vim_runtime/backupdir"
+if !isdirectory($HOME."/.vim/backupdir")
+    silent! execute "!mkdir ~/.vim/backupdir"
 endif
-set backupdir=~/.vim_runtime/backupdir
+set backupdir=~/.vim/backupdir
 "not generate .swap
 set noswapfile
 
