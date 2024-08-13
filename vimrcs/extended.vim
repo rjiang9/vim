@@ -44,7 +44,7 @@ autocmd! bufwritepost ~/.vim/my_configs.vim source ~/.vim/my_configs.vim
 "    means that you can undo even when you close a buffer/VIM
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 try
-    set undodir=~/.vim/temp_dirs/undodir
+    set undodir=~/.vim/dirs/undo
     set undofile
 catch
 endtry
