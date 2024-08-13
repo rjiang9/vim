@@ -1,10 +1,11 @@
-# I don't use any 3rd part plugin manager (pathen or vim-plug) anymore. Only use vim8+ built-in package management systerm.
-# Where: 
+## NOTE: 
+I don't use any 3rd part plugin manager (pathen or vim-plug) anymore. Only use vim8+ built-in package management systerm.
+### Where: 
   `~/.vim`
-# Where config:
+### Where config:
   `~/.vim/my_configs.vim`
 
-# How to install/update plugins
+### How to install/update plugins
 Just 
   `git clone https://repo_url/blah.git ~/.vim/pack/myplugins/start/blah`
 
