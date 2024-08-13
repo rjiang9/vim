@@ -34,6 +34,6 @@ The `update_plugins.py` (customized with my own folders)  and the files in `~/.v
 If for base vim use: just 
 `cat ~/.vim/vimrcs/basic.vim > ~/.vimrc`
 
-For all customozations including plugin configuration should go to,
+For all customozations including plugin configurations, code should go to,
 `~/.vim/my_configs.vim`
 
