@@ -14,6 +14,12 @@ Or put the `name repo_git_url` as a line as in the `~/.vim/update_plugins.py`, t
 
 The `update_plugins.py` (customized with my own folders)  and the files in `~/.vim/vimrcs/` were from `https://github.com/amix/vimrc`.  
 
+#### How to remove/uninstall a plugin `blah`
+
+Just delete the plugin director `~/.vim/pack/myplugins/start/blah`
+
+Don't remember to remove it from `~/.vim/update_plugins.py` to avoid it to be reinstalled when run this script to bulk updates. 
+
 #### ~/.vimrc
 
 ```
