@@ -30,5 +30,6 @@ The `update_plugins.py` (customized with my own folders)  and the files in `~/.v
    source ~/.vim/my_configs.vim
  catch
  endtry
-~         
 ```
+If for base vim use: just 
+`cat ~/.vim/vimrcs/basic.vim > ~/.vimrc`
