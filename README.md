@@ -37,3 +37,8 @@ If for base vim use: just
 For all customozations including plugin configurations, code should go to,
 `~/.vim/my_configs.vim`
 
+#### Other directories
+`backupdir`, `temp_dirs`(? in use) should be created manually. 
+
+#### dot.vimrc
+Just for being used as a template for `~/.vimrc`
