@@ -2,7 +2,7 @@
 I don't use any 3rd part plugin manager (pathen or vim-plug) anymore. Only use vim8+ built-in package management systerm.
 #### Where: 
   `~/.vim`
-#### Where config:
+#### Where is my customized config:
   `~/.vim/my_configs.vim`
 
 #### How to install/update plugins
@@ -13,6 +13,12 @@ Or put the `name repo_git_url` as a line as in the `~/.vim/update_plugins.py`, t
 `python update_plugins.py` and it's updates all of them. 
 
 The `update_plugins.py` (customized with my own folders)  and the files in `~/.vim/vimrcs/` were from `https://github.com/amix/vimrc`.  
+
+#### How to remove/uninstall a plugin `blah`
+
+Just delete the plugin director `~/.vim/pack/myplugins/start/blah`
+
+Don't remember to remove it from `~/.vim/update_plugins.py` to avoid it to be reinstalled when run this script to bulk updates. 
 
 #### ~/.vimrc
 
