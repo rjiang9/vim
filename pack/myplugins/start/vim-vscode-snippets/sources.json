@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://github.com/J0rgeSerran0/vscode-csharp-snippets.git"
+  },
+  {
+    "url": "https://github.com/dsznajder/vscode-es7-javascript-react-snippets.git",
+    "hook": "yarn && yarn compile"
+  },
+  {
+    "url": "https://github.com/ylcnfrht/vscode-python-snippet-pack.git"
+  },
+  {
+    "url": "https://github.com/rubyide/vscode-ruby.git",
+    "root": "packages/vscode-ruby"
+  },
+  {
+    "url": "https://github.com/one-harsh/vscode-cpp-snippets.git"
+  },
+  {
+    "url": "https://github.com/golang/vscode-go.git",
+    "root": "extension"
+  },
+  {
+    "url": "https://github.com/rust-lang/vscode-rust.git",
+    "license": ["LICENSE-MIT", "LICENSE-APACHE"]
+  },
+  {
+    "url": "https://github.com/kleber-swf/vscode-unity-code-snippets.git"
+  },
+  {
+    "url": "https://github.com/keyring/vsc-lua.git"
+  },
+  {
+    "url": "https://github.com/h4kst3r/php-awesome-snippets.git",
+    "remap_language": {
+      "plaintext": "php"
+    }
+  },
+  {
+    "url": "https://github.com/microsoft/vscode.git",
+    "root": "extensions/*",
+    "min_snippets": 3
+  },
+  {
+    "url": "https://github.com/xabikos/vscode-javascript.git"
+  },
+  {
+    "url": "https://github.com/capaj/vscode-standardjs-snippets.git"
+  }
+]

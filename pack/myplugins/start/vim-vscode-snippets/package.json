@@ -1,0 +1,254 @@
+{
+  "contributes": {
+    "snippets": [
+      {
+        "language": "c",
+        "path": "snippets/vscode-cpp-snippets/c.json"
+      },
+      {
+        "language": "cpp",
+        "path": "snippets/vscode-cpp-snippets/cpp.json"
+      },
+      {
+        "language": "csharp",
+        "path": "snippets/vscode-csharp-snippets/csharp.json"
+      },
+      {
+        "language": "csharp",
+        "path": "snippets/vscode-unity-code-snippets/snippets.json"
+      },
+      {
+        "language": "erb",
+        "path": "snippets/vscode-ruby/packages/vscode-ruby/erb.json"
+      },
+      {
+        "language": "go",
+        "path": "snippets/vscode-go/extension/go.json"
+      },
+      {
+        "language": "groovy",
+        "path": "snippets/vscode/extensions/groovy/groovy.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "snippets/php-awesome-snippets/tag.json"
+      },
+      {
+        "language": "html",
+        "path": "snippets/vscode-javascript/snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "snippets/vscode-es7-javascript-react-snippets/generated.json"
+      },
+      {
+        "language": "javascript",
+        "path": "snippets/vscode-javascript/snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "snippets/vscode-standardjs-snippets/javascript.json"
+      },
+      {
+        "language": "javascript",
+        "path": "snippets/vscode/extensions/javascript/javascript.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "snippets/vscode-es7-javascript-react-snippets/generated.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "snippets/vscode-javascript/snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "snippets/vscode-standardjs-snippets/apollo.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "snippets/vscode-standardjs-snippets/javascript.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "snippets/vscode-standardjs-snippets/react.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "snippets/vscode/extensions/javascript/javascript.code-snippets"
+      },
+      {
+        "language": "lua",
+        "path": "snippets/vsc-lua/snippets.json"
+      },
+      {
+        "language": "markdown",
+        "path": "snippets/vscode/extensions/markdown-basics/markdown.code-snippets"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/array.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/array.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/class.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/class.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/control.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/control.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/error.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/error.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/function.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/function.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/function.php5.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/function.php5.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/globalvar.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/globalvar.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/loop.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/loop.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/method.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/method.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/method.php5.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/method.php5.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/statement.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/statement.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/tag.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/php-awesome-snippets/tag.json"
+      },
+      {
+        "language": "php",
+        "path": "snippets/vscode/extensions/php/php.code-snippets"
+      },
+      {
+        "language": "python",
+        "path": "snippets/vscode-python-snippet-pack/python_snippets.json"
+      },
+      {
+        "language": "ruby",
+        "path": "snippets/vscode-ruby/packages/vscode-ruby/ruby.json"
+      },
+      {
+        "language": "rust",
+        "path": "snippets/vscode-rust/rust.json"
+      },
+      {
+        "language": "swift",
+        "path": "snippets/vscode/extensions/swift/swift.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "snippets/vscode-es7-javascript-react-snippets/generated.json"
+      },
+      {
+        "language": "typescript",
+        "path": "snippets/vscode-javascript/snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "snippets/vscode-standardjs-snippets/javascript.json"
+      },
+      {
+        "language": "typescript",
+        "path": "snippets/vscode/extensions/typescript-basics/typescript.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "snippets/vscode-es7-javascript-react-snippets/generated.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "snippets/vscode-javascript/snippets.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "snippets/vscode-standardjs-snippets/apollo.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "snippets/vscode-standardjs-snippets/javascript.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "snippets/vscode-standardjs-snippets/react-ts.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "snippets/vscode/extensions/typescript-basics/typescript.code-snippets"
+      },
+      {
+        "language": "vb",
+        "path": "snippets/vscode/extensions/vb/vb.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "snippets/vscode-javascript/snippets.json"
+      }
+    ]
+  }
+}
