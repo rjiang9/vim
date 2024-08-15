@@ -7,6 +7,7 @@ from io import BytesIO
 from os import path
 
 # --- Globals ----------------------------------------------
+# tcomment_vim https://github.com/tomtom/tcomment_vim.git
 PLUGINS = """
 auto-pairs https://github.com/jiangmiao/auto-pairs
 ale https://github.com/dense-analysis/ale
